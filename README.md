@@ -13,4 +13,4 @@ Submission test Git Management version of Project
 Silahkan untuk anggota team untuk melakukan tahapan diatas. Untuk selanjutnya kita mengerjakan project berikutnya.
 
 ### collaboration Team Two (Teamwork)
-* Akun OniSakadev (M.Ilham Zulfaishal)
+* OniSakadev (M.Ilham Zulfaishal)
