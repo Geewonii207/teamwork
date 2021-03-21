@@ -22,11 +22,11 @@ Silahkan untuk anggota team untuk melakukan tahapan diatas. Untuk selanjutnya ki
 * kedua: kita harus meremote repository yang ingin kita hubungkan, dengan command `git remote add origin 'your repository link'`
 * sekarang kita sudah adapat melakukan Pull dan Push
 
-## cara Push file ke repository
+### cara Push file ke repository
 * pertama: kita akan menambahkan file yang baru kita buat atau baru diupdate, dengan command `git add 'your file name'`
 * kedua: kita akan mengcommit update file tersebut, dengan command `git commit -m "choose your message, that's optional"`
 * ketiga: kita akan push file tadi ke repository, dengan command `git push -u origin master`
 
-## cara pull file kedalam komputer
+### cara pull file kedalam komputer
 * cukup dengan command `git pull`
 ## end
