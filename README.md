@@ -13,9 +13,7 @@ Submission test Git Management version of Project
 
 Silahkan untuk anggota team untuk melakukan tahapan diatas. Untuk selanjutnya kita mengerjakan project berikutnya.
 
-### collaboration Team Two (Teamwork)
-* OniSakadev (M.Ilham Zulfaishal)
-* arul-AKZ (ahmad khairul zahid) 
+ 
 
 ## Rumus
 * pertama: kita harus melakukan Inisialisasi git terlebih dahulu, dengan command `git init`
@@ -29,4 +27,8 @@ Silahkan untuk anggota team untuk melakukan tahapan diatas. Untuk selanjutnya ki
 
 ### cara pull file kedalam komputer
 * cukup dengan command `git pull`
+
+## collaboration Team Two (Teamwork)
+* OniSakadev (M.Ilham Zulfaishal)
+* arul-AKZ (ahmad khairul zahid)
 ## end
